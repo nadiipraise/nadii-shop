@@ -1,4 +1,4 @@
-# Anon - An eCommerce Website
+# Nadii shop - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
@@ -32,6 +32,7 @@ sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 Windows:
 
 ```bash
+visit website https://nadiipraise.github.io/nadii-shop/
 git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
 
